@@ -19,6 +19,11 @@ $ git clone https://github.com/fati10011/CommanderX
 ```
 $ sudo apt install zenity
 ```
+  <li>Navigate to the project directory</li>
+  
+```
+$ cd CommanderX/
+```
   <li>Run the script in a terminal</li>
   
 ```
